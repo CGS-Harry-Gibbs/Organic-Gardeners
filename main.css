@@ -1,0 +1,27 @@
+*{
+	margin-top: 0px;
+	font-family: sans-serif;
+}
+.tableProp{
+	border-style: solid;
+	background-color: lightgreen;
+
+}
+hr{
+	border: 0px solid lightgreen; border-top-width: 3px;
+}
+.linkProp{
+	color: black;
+	text-decoration: none;
+}
+.pProp{
+	text-align: left; 
+	font-weight: normal; 
+	font-size: 16px;
+}
+.divProp{
+	padding-top: 20px; 
+	padding-bottom: 20px; 
+	padding-left: 20px; 
+	text-align: left;
+}
